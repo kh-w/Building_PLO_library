@@ -1,2 +1,5 @@
 ^PLO\.Rproj$
 ^\.Rproj\.user$
+^PLO\.Rcheck$
+^PLO.*\.tar\.gz$
+^PLO.*\.tgz$
