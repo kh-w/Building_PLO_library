@@ -2,7 +2,7 @@ library(usethis)
 # create_package("PLO")
 usethis::use_r("hand_validation")
 usethis::use_r("card_value_low")
-usethis::use_r("card_value_high")
+usethis::use_r("card_value_high") #
 usethis::use_r("is_straight_flush")
 usethis::use_r("is_straight")
 usethis::use_r("is_flush")
